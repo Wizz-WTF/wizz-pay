@@ -1,6 +1,7 @@
 ds-test/=lib/forge-std/lib/ds-test/src/
 forge-std/=lib/forge-std/src/
 solbase/=lib/solbase/src/
+BoringSolidity/=lib/BoringSolidity/contracts/
 solmate/=lib/solmate/src/
 interfaces/=src/interfaces
 utils/=src/utils
