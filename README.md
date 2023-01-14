@@ -1,1 +1,1 @@
-# [WIP] Foundry Template w/ make setup
+# [WIP] Wizz Pay - Stream NFTs as payment
