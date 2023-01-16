@@ -3,5 +3,6 @@ forge-std/=lib/forge-std/src/
 solbase/=lib/solbase/src/
 BoringSolidity/=lib/BoringSolidity/contracts/
 solmate/=lib/solmate/src/
+nftx/=lib/nftx-protocol-v2/contracts
 interfaces/=src/interfaces
 utils/=src/utils
